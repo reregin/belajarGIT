@@ -17,4 +17,4 @@
 - git add
 - git commit
 - git merge
-- git push
+- git push
