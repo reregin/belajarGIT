@@ -10,14 +10,11 @@
 7. Tugas-finalProject
 
 **Daftar perintah GiT**
-- git config
+- git clone
 - git init
-- git status
+- git branch
+- git checkout
 - git add
 - git commit
-- git log
-- git checkout
-- git branch
 - git merge
-
-Selengkapnya ada pada dokumentasi dari website Git ([here](https://git-scm.com/docs)).
+- git push
